@@ -21,9 +21,7 @@ To determine whether **price sensitivity** is the main factor influencing custom
 * **Churn**: When a PowerCo customer switches to another provider.
 * **Price Sensitivity**: The degree to which customer behavior changes in response to a price change, typically measured using **price elasticity of demand**:
 
-  [
-  \text{Price Elasticity of Demand} = \frac{% \text{Change in Quantity Demanded}}{% \text{Change in Price}}
-  ]
+  **Price Elasticity of Demand** = (% Change in Quantity Demanded) / (% Change in Price)
 
   * If |Elasticity| > 1 → The product/service is **elastic** (highly sensitive to price).
   * If |Elasticity| < 1 → The product/service is **inelastic** (less sensitive to price).
